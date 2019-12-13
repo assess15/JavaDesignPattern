@@ -1,4 +1,4 @@
-package com.assess15.design.builder;
+package com.assess15.design.creational.builder;
 
 /**
  * Builder模式
