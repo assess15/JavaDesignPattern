@@ -1,8 +1,5 @@
-package com.assess15.design.creational.abstractFactory;
+package com.assess15.design.creational.prototype.demo2;
 
-/**
- * 抽象工厂
- */
 public class MainClass {
     public static void main(String[] args) {
 
