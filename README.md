@@ -117,7 +117,7 @@
 
 [代理模式](./JavaDesignPatternTheory/结构型/代理模式.md)
 
-适配器模式
+[适配器模式](./JavaDesignPatternTheory/结构型/适配器模式.md)
 
 [装饰者模式](./JavaDesignPatternTheory/结构型/装饰器模式.md)
 
@@ -135,7 +135,7 @@
 
 [责任链模式](./JavaDesignPatternTheory/行为型/责任链模式.md)
 
-策略模式
+[策略模式](./JavaDesignPatternTheory/行为型/策略模式.md)
 
 观察者模式
 
