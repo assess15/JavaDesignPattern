@@ -119,7 +119,7 @@
 
 适配器模式
 
-装饰者模式
+[装饰者模式](./JavaDesignPatternTheory/结构型/装饰器模式.md)
 
 外观模式
 
