@@ -105,41 +105,41 @@
 
 ### 创建型
 
-[单例模式](./JavaDesignPatternTheory/创建型/单例模式.md)
+[单例模式](./theory/创建型/单例模式.md)
 
-[建造者模式](./JavaDesignPatternTheory/创建型/建造者模式.md)
+[建造者模式](./theory/创建型/建造者模式.md)
 
-[工厂方法模式](./JavaDesignPatternTheory/创建型/工厂方法.md)
+[工厂方法模式](./theory/创建型/工厂方法.md)
 
-[抽象工厂模式](./JavaDesignPatternTheory/创建型/抽象工厂.md)
+[抽象工厂模式](./theory/创建型/抽象工厂.md)
 
-[原型模式](./JavaDesignPatternTheory/创建型/原型模式.md)
+[原型模式](./theory/创建型/原型模式.md)
 
 ---
 
 ### 结构性
 
-[代理模式](./JavaDesignPatternTheory/结构型/代理模式.md)
+[代理模式](./theory/结构型/代理模式.md)
 
-[适配器模式](./JavaDesignPatternTheory/结构型/适配器模式.md)
+[适配器模式](./theory/结构型/适配器模式.md)
 
-[装饰者模式](./JavaDesignPatternTheory/结构型/装饰器模式.md)
+[装饰者模式](./theory/结构型/装饰器模式.md)
 
-[外观模式](./JavaDesignPatternTheory/结构型/外观模式.md)
+[外观模式](./theory/结构型/外观模式.md)
+
+[享元模式](./theory/结构型/享元模式.md)
 
 桥接模式
 
 组合模式
 
-享元模式
-
 ---
 
 ### 行为型
 
-[责任链模式](./JavaDesignPatternTheory/行为型/责任链模式.md)
+[责任链模式](./theory/行为型/责任链模式.md)
 
-[策略模式](./JavaDesignPatternTheory/行为型/策略模式.md)
+[策略模式](./theory/行为型/策略模式.md)
 
 观察者模式
 
