@@ -6,14 +6,19 @@ package com.assess15.design.creational.sington;
 public class MainSingleton {
     public static void main(String[] args) {
 
-        SingletonLazySafe singletonLazySafe = SingletonLazySafe.getSingleton();
+        SingletonLazySafe ls = SingletonLazySafe.getSingleton();
+        ls.doSome2();
 
-        SingletonLazyUnsafe singletonLazyUnsafe = SingletonLazyUnsafe.getSingleton();
+        SingletonLazyUnsafe lu = SingletonLazyUnsafe.getSingleton();
+        lu.doSome4();
 
-        SingletonHungry singletonHungry = SingletonHungry.getSingleton();
+        SingletonHungry h = SingletonHungry.getSingleton();
+        h.doSome2();
 
-        SingletonDoubleCheckLock singletonDoubleCheckLock = SingletonDoubleCheckLock.getSingleton();
+        SingletonDoubleCheckLock dbc = SingletonDoubleCheckLock.getSingleton();
+        dbc.doSome1();
 
-        Object data = EnumInstance.getInstance().getData();
+        EnumInstance e = EnumInstance.getInstance();
+        e.doSome();
     }
 }

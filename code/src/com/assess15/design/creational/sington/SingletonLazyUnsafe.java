@@ -1,7 +1,8 @@
 package com.assess15.design.creational.sington;
 
 /**
- * 懒汉式-单例模式-线程不安全
+ * 懒汉式-单例模式
+ * 线程不安全
  */
 public class SingletonLazyUnsafe {
 
@@ -16,5 +17,9 @@ public class SingletonLazyUnsafe {
             singleton = new SingletonLazyUnsafe();
         }
         return singleton;
+    }
+
+    public void doSome4() {
+        System.out.println("懒汉式!!!");
     }
 }
