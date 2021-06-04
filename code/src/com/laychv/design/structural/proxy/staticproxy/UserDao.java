@@ -1,4 +1,4 @@
-package com.assess15.design.structural.proxy.dynamicproxy;
+package com.laychv.design.structural.proxy.staticproxy;
 
 public class UserDao implements IUserDao {
     @Override
