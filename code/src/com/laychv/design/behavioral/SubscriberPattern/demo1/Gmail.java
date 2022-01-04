@@ -1,4 +1,4 @@
-package com.laychv.design.behavioral.SubscriberPattern;
+package com.laychv.design.behavioral.SubscriberPattern.demo1;
 
 import java.util.Observable;
 
@@ -6,6 +6,7 @@ import java.util.Observable;
  * 被观察者
  * 发布者
  */
+@Deprecated(since = "9")
 public class Gmail extends Observable {
 
     public void post(String content) {

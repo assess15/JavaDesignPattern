@@ -1,4 +1,4 @@
-package com.laychv.design.behavioral.SubscriberPattern;
+package com.laychv.design.behavioral.SubscriberPattern.demo1;
 
 import java.util.Observable;
 import java.util.Observer;
@@ -7,6 +7,7 @@ import java.util.Observer;
  * 观察者
  * 订阅者
  */
+@Deprecated(since = "9")
 public class Coder implements Observer {
 
     public String name;

@@ -1,4 +1,4 @@
-package com.laychv.design.behavioral.SubscriberPattern;
+package com.laychv.design.behavioral.SubscriberPattern.demo1;
 
 public class Test {
     public static void main(String[] args) {

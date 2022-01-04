@@ -1,8 +1,5 @@
 package com.laychv.design.structural.DecoratorPattern.android;
 
-import com.sun.istack.internal.NotNull;
-import com.sun.istack.internal.Nullable;
-
 public abstract class Context {
     public abstract void startActivity(String intent);
 
