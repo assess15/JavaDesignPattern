@@ -1,4 +1,4 @@
-package com.laychv.design.structural.FlyweightPattern;
+package com.laychv.design.structural.FlyweightPattern.demo1;
 
 /**
  * 享元模式测试
