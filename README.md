@@ -30,7 +30,7 @@
 |[<font size=2>装饰器模式（Decorator Pattern）</font>](theory/结构型/装饰模式.md)|动态地给一个对象添加额外的职责|
 |[<font size=2>享元模式（Flyweight Pattern）</font>](./theory/结构型/享元模式.md)|使用共享对象可有效的支持大量颗粒度的对象|
 |[<font size=2>外观模式（Facade Pattern）</font>](./theory/结构型/外观模式.md)|要求一个子系统的外部与其内部的通信必须通过一个统一的对象进行|
-|桥接模式（Bridge Pattern）||
+| [<font size=2>桥接模式（Bridge Pattern）</font>](./theory/结构型/桥接模式.md)    | 通过桥梁连接抽象部分与实现部分                                     |
 |组合模式（Composite Pattern）||
 
 |行为型模式|概述|
