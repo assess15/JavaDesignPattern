@@ -1,4 +1,4 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 public class TestInThread2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 public class SingletonHungry2 {
     private final static SingletonHungry2 hungry;

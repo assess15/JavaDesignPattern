@@ -1,9 +1,9 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 /**
  * 单例模式-测试类
  */
-public class MainSingleton {
+public class TestSingleton {
     public static void main(String[] args) {
 
         SingletonLazySafe ls = SingletonLazySafe.getSingleton();
@@ -18,7 +18,7 @@ public class MainSingleton {
         SingletonDoubleCheckLock dbc = SingletonDoubleCheckLock.getSingleton();
         dbc.doSome1();
 
-        EnumInstance e = EnumInstance.getInstance();
-        e.doSome();
+        SingletonEnum e = SingletonEnum.getInstance();
+        e.show();
     }
 }

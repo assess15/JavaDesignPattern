@@ -1,4 +1,4 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 /**
  * 双重校验锁-单例模式-线程安全

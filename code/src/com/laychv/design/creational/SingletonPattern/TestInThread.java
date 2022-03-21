@@ -1,4 +1,4 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 /**
  * 测试多线程中 单例模式
@@ -28,7 +28,7 @@ public class TestInThread {
     private static void test2() {
 //        EnumInstance instance = EnumInstance.getInstance();
 //        instance.doSome();
-        int i = EnumInstance.getInstance().hashCode();
+        int i = SingletonEnum.getInstance().hashCode();
         System.out.println(i);
     }
 
@@ -69,6 +69,10 @@ public class TestInThread {
         SingletonCollect.getInstance("key");
     }
 
+    private static void testCasSingleton() {
+        CASSingleton.getInstance().show();
+    }
+
     static class TestThread extends Thread {
         @Override
         public void run() {
@@ -80,7 +84,8 @@ public class TestInThread {
 //            test4();
 //            test5();
 //            test8();
-            test9();
+//            test9();
+            testCasSingleton();
         }
     }
 }

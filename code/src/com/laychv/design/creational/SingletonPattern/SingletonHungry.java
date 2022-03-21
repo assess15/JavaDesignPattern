@@ -1,4 +1,4 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 /**
  * 饿汉式-单例模式

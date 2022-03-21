@@ -1,4 +1,4 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 /**
  * 静态内部类- 单例模式
@@ -14,4 +14,9 @@ public class SingletonStaticInnerClass {
     private static class SingleHolder {
         private static final SingletonStaticInnerClass single = new SingletonStaticInnerClass();
     }
+
+    public void show() {
+        System.out.println("成功引起我的注意！！！");
+    }
+
 }

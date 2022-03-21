@@ -1,16 +1,16 @@
-package com.laychv.design.creational.SingtonPattern;
+package com.laychv.design.creational.SingletonPattern;
 
 /**
  * 枚举-单例模式-线程安全
  */
-public enum EnumInstance {
+public enum SingletonEnum {
     INSTANCE;
 
-    public static EnumInstance getInstance() {
+    public static SingletonEnum getInstance() {
         return INSTANCE;
     }
 
-    public void doSome() {
+    public void show() {
         System.out.println("枚举单例模式来了!!!");
     }
 }
