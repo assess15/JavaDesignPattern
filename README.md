@@ -39,7 +39,7 @@
 | [<font size=2>策略模式（Strategy Pattern）</font>](./theory/行为型/策略模式.md)                  | 定义了一些列算法，将每个算法封装起来，使它们可以相互替换,让算法独立于使用它的客户而独立变化                        |
 | [<font size=2>模板模式（Template Pattern）</font>](./theory/行为型/模板方法.md)                  | 封装流程                                                                  |
 | [<font size=2>观察者模式（Observer Pattern）</font>](./theory/行为型/观察者模式.md)                | 定义对象间一种一对多关系，使得每当一个对象改变状态，则所有依赖于它的对象都会得到通知并被自动更新。                     |
-| <font size=2>备忘录模式（Memento Pattern）</font>                                          ||
+| [<font size=2>备忘录模式（Memento Pattern）</font> ](./theory/行为型/备忘录模式.md)                | 恢复状态                                                                  |
 | <font size=2>迭代器模式（Iterator Pattern）</font>                                         ||
 | <font size=2>中介者模式（Mediator Pattern）</font>                                         ||
 | <font size=2>命令模式（Command Pattern）</font>                                           ||
