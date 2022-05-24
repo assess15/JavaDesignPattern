@@ -40,7 +40,7 @@
 | [<font size=2>模板模式（Template Pattern）</font>](./theory/行为型/模板方法.md)                  | 封装流程                                                                  |
 | [<font size=2>观察者模式（Observer Pattern）</font>](./theory/行为型/观察者模式.md)                | 定义对象间一种一对多关系，使得每当一个对象改变状态，则所有依赖于它的对象都会得到通知并被自动更新。                     |
 | [<font size=2>备忘录模式（Memento Pattern）</font> ](./theory/行为型/备忘录模式.md)                | 恢复状态                                                                  |
-| <font size=2>迭代器模式（Iterator Pattern）</font>                                         ||
+| [<font size=2>迭代器模式（Iterator Pattern）</font>](/theory/行为型/迭代器模式.md)                 | 顺序访问一个容器对象中的各个元素                                                      |
 | <font size=2>中介者模式（Mediator Pattern）</font>                                         ||
 | <font size=2>命令模式（Command Pattern）</font>                                           ||
 | <font size=2>访问者模式（Visitor Pattern）</font>                                          ||
