@@ -1,4 +1,4 @@
-package com.laychv.design.behavioral.VisitorPattern.demo;
+package com.laychv.design.behavioral.VisitorPattern;
 
 public interface Visitor {
     // 访问工程师类型

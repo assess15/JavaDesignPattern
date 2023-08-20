@@ -1,4 +1,4 @@
-package com.laychv.design.behavioral.VisitorPattern.demo;
+package com.laychv.design.behavioral.VisitorPattern;
 
 public class Client {
     public static void main(String[] args) {

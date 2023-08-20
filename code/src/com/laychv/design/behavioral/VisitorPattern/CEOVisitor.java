@@ -1,4 +1,4 @@
-package com.laychv.design.behavioral.VisitorPattern.demo;
+package com.laychv.design.behavioral.VisitorPattern;
 
 // CEO访问者,只关注业绩
 public class CEOVisitor implements Visitor {

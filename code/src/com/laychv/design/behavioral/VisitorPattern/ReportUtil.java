@@ -1,4 +1,4 @@
-package com.laychv.design.behavioral.VisitorPattern.demo;
+package com.laychv.design.behavioral.VisitorPattern;
 
 class ReportUtil {
     public void visit(Staff staff) {
