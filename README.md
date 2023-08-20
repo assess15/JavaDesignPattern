@@ -4,14 +4,14 @@
 
 ## 设计原则
 
-|      [SOLID原则](/doc/设计原则.md)       | 概述                                                         |
-|:----------------------------------:|:-----------------------------------------------------------|
-| <font size=2>S 单一职责原则(SRP)</font>  | 一个类/接口/方法只负责一项职责                                           |
-|  <font size=2>O 开闭原则(OCP)</font>   | 对拓展开放，对修改关闭                                                |
-| <font size=2>L 里氏替换原则(LSP)</font>  | 只要父类能出现的地方子类就可以出现，而且替换为子类也不会产生任何错误或异常，使用者可能根本不需要知道是父类还是子类  |
-|  <font size=2>L 迪米特原则(LOD)</font>  | 一个对象应该对其他对象保持最少的了解，又叫最少知道原则                                |
-| <font size=2>I 接口隔离原则(ISP)</font>  | 一个类对一个类的依赖应该建立在最小的接口上                                      |
-| <font size=2>D 依赖倒置原则(DIP)</font>  | 抽象不应该依赖细节，细节应该依赖抽象                                         |
+|      [SOLID原则](/doc/设计原则.md)      | 概述                                                        |
+|:---------------------------------:|:----------------------------------------------------------|
+| <font size=2>S 单一职责原则(SRP)</font> | 一个类/接口/方法只负责一项职责                                          |
+|  <font size=2>O 开闭原则(OCP)</font>  | 对拓展开放，对修改关闭                                               |
+| <font size=2>L 里氏替换原则(LSP)</font> | 只要父类能出现的地方子类就可以出现，而且替换为子类也不会产生任何错误或异常，使用者可能根本不需要知道是父类还是子类 |
+| <font size=2>L 迪米特原则(LOD)</font>  | 一个对象应该对其他对象保持最少的了解，又叫最少知道原则                               |
+| <font size=2>I 接口隔离原则(ISP)</font> | 一个类对一个类的依赖应该建立在最小的接口上                                     |
+| <font size=2>D 依赖倒置原则(DIP)</font> | 抽象不应该依赖细节，细节应该依赖抽象                                        |
 
 ## 设计模式类型
 
@@ -42,7 +42,7 @@
 | [<font size=2>备忘录模式（Memento Pattern）</font> ](doc/行为型/备忘录模式.md)                | 恢复状态                                                                  |
 | [<font size=2>迭代器模式（Iterator Pattern）</font>](/doc/行为型/迭代器模式.md)               | 顺序访问一个容器对象中的各个元素                                                      |
 | [<font size=2>中介者模式（Mediator Pattern）</font>](/doc/行为型/中介者模式.md)               | 和事佬，调解者                                                               |
-| <font size=2>命令模式（Command Pattern）</font>                                      | 行为调用者和实现者解偶                                                           |
-| <font size=2>访问者模式（Visitor Pattern）</font>                                     ||
+| [<font size=2>命令模式（Command Pattern）</font>](/doc/行为型/命令模式.md)                  | 行为调用者和实现者解偶                                                           |
+| [<font size=2>访问者模式（Visitor Pattern）</font>](/doc/行为型/访问者模式.md)                | 将数据操作与数据结构分离                                                          |
 | <font size=2>解释器模式（Interpreter Pattern）</font>                                 ||
 | <font size=2>状态模式（State Pattern）</font>                                        ||
