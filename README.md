@@ -45,4 +45,4 @@
 | 🟢 🟢    | [<font size=2>命令模式（Command Pattern）</font>](/doc/行为型/命令模式.md)                  | 行为调用者和实现者解偶                                                           |
 | 🟢       | [<font size=2>访问者模式（Visitor Pattern）</font>](/doc/行为型/访问者模式.md)                | 将数据操作与数据结构分离                                                          |
 | 🟢       | [<font size=2>解释器模式（Interpreter Pattern）</font>](/doc/行为型/解释器模式.md)            | 定义一个接口，通过该接口解释特定的上下文；可以理解微名词解释                                        |
-|          | <font size=2>状态模式（State Pattern）</font>                                        ||
+| 🟢 🟢    | [<font size=2>状态模式（State Pattern）</font>](/doc/行为型/状态模式.md)                    | 不同状态不同行为                                                              |
