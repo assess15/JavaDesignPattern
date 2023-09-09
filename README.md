@@ -20,7 +20,7 @@
 | 🟢 🟢 🟢 | [<font size=2>单例模式（Singleton Pattern）</font>](doc/创建型/单例模式.md)          | 一个类一个实例                              |
 | 🟢 🟢    | [<font size=2>工厂模式（Factory Pattern）</font>](doc/创建型/工厂方法.md)            | 创建对象的接口，让子类决定实例化哪个类                  |
 | 🟢 🟢    | [<font size=2>原型模式（Prototype Pattern）</font>](doc/创建型/原型模式.md)          | 通过拷贝这些原型创建新的对象                       |
-| 🟢 🟢 🟢 | [<font size=2>建造者模式（Builder Pattern）</font>](doc/创建型/建造者模式.md)          | 一个类一个实例                              |
+| 🟢 🟢 🟢 | [<font size=2>建造者模式（Builder Pattern）</font>](doc/创建型/建造者模式.md)          | 一步一步创建一个复杂对象                         |
 | 🟢 🟢    | [<font size=2>抽象工厂模式（Abstract Factory Pattern）</font>](doc/创建型/抽象工厂.md) | 为创建一组相关或者是互相依赖的对象提供一个接口，而不需要指定它们的具体类 |
 
 | 使用频率     | 结构型模式                                                           | 概述                                                  |
@@ -44,5 +44,5 @@
 | 🟢 🟢    | [<font size=2>中介者模式（Mediator Pattern）</font>](/doc/行为型/中介者模式.md)               | 和事佬，调解者                                                               |
 | 🟢 🟢    | [<font size=2>命令模式（Command Pattern）</font>](/doc/行为型/命令模式.md)                  | 行为调用者和实现者解偶                                                           |
 | 🟢       | [<font size=2>访问者模式（Visitor Pattern）</font>](/doc/行为型/访问者模式.md)                | 将数据操作与数据结构分离                                                          |
-| 🟢       | [<font size=2>解释器模式（Interpreter Pattern）</font>](/doc/行为型/解释器模式.md)            | 定义一个接口，通过该接口解释特定的上下文；可以理解微名词解释                                        |
+| 🟢       | [<font size=2>解释器模式（Interpreter Pattern）</font>](/doc/行为型/解释器模式.md)            | 定义一个接口，通过该接口解释特定的上下文；可以理解为名词解释                                        |
 | 🟢 🟢    | [<font size=2>状态模式（State Pattern）</font>](/doc/行为型/状态模式.md)                    | 不同状态不同行为                                                              |
